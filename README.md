@@ -1,1 +1,1 @@
-AI/ML Codes and Projects
+AIML Codes and Projects
