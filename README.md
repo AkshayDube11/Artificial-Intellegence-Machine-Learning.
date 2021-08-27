@@ -1,2 +1,1 @@
-# LetsUpgrade-AI-ML
-AI/ML Codes and Projects.
+AI/ML Codes and Projects
